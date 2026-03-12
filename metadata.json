@@ -1,0 +1,5 @@
+{
+  "name": "RoadGuard AI",
+  "description": "AI-powered road hazard detection and reporting system using Gemini Vision.",
+  "requestFramePermissions": ["geolocation"]
+}
