@@ -69,20 +69,6 @@ VITE_GEMINI_API_KEY=
 ```
 
 ---
-
-## Demo
-
-You can test the application by uploading a road image with a pothole or damaged road surface.  
-The AI will analyze the image and automatically classify the hazard.
-
-AI Studio App Link:  
-https://ai.studio/apps/c129333c-ea53-4732-91ca-89e94c32b877
-
-PPT and Demo video link
-https://drive.google.com/drive/folders/1Ws8PZt0HkC4XHjHdPTC9LHBufDsm_v5I?usp=sharing
-
----
-
 ## Future Improvements
 
 - AI hazard heatmap visualization
