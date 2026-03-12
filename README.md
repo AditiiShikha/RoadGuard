@@ -1,4 +1,4 @@
-# Roadmap# RoadGuard AI
+ RoadGuard AI
 
 RoadGuard AI is an AI-powered platform that detects and reports road hazards such as potholes using computer vision and community contributions. The system analyzes uploaded road images using Gemini Vision and visualizes hazards on an interactive map.
 
